@@ -5,7 +5,7 @@
 ### 1. Clone repo
 
 ```
-$ git clone git@github.com:a-m-a-n-kumar/amanzonia.git
+$ git clone git@github.com:a-m-a-n-kumar/aman-zonia.git
 $ cd aman-zonia
 ```
 
